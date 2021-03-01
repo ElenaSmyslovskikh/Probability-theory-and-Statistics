@@ -13,12 +13,12 @@ Overall grade for the course: 9/10
 
 Task description:
 
-## Hw1 -- Linear model testing G-M conditions
+Hw1 - Linear model testing G-M conditions
 
-## Hw2 -- Empirical strategy analysis. Interaction terms.
+Hw2 - Empirical strategy analysis. Interaction terms.
 
-## Hw3 -- PCA
+Hw3 - PCA
 
-## Hw4 -- Factor analysis
+Hw4 - Factor analysis
 
 
