@@ -1,6 +1,5 @@
 # Probability-theory-and-Statistics
-
-Multi-dimensional statistical analysis course (fall 2019 - summer 2020)
+Mathematics and Statistics course (fall 2019 - summer 2020)
 
 Probability theory. Principal component analysis. Factor analysis.
 
